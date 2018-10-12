@@ -2,7 +2,7 @@
 1. Predicting cyclones using the wind speed data already made available by the Weather API from Google
 2. During normal conditions functions as a weather app. 
 3. On abnormal days chances of calamity is depicted in a interactive way
-4. Functionality during disaster time-
+4. Functionalities during disaster time-
      1. Depicting affected zones using maps
      2. Locally Storning the disaster guide. 
      3. If there is a  high chance of calamity then documents specifying do's and dont's are fetched, during a calamity  the local map is saved automatically to the device. 
